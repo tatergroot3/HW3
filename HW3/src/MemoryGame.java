@@ -1,5 +1,7 @@
 /** @author Michael Groot*/
 
+/** Test comment*/
+
 /** importing packages so I can do stuff*/
 import java.util.*;
 
