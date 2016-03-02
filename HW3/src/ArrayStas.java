@@ -1,5 +1,8 @@
-/** @author Michael Groot*/
+/** @author Michael Groot
 
+*
+*Here is the link to github: https://github.com/tatergroot3/HW3.git/
+*/
 
 /** Importing package so I can use stuff*/
 import java.util.*;
